@@ -1,2 +1,2 @@
 # hospital-app
-detecting hospitals nearby
+detecting nearby hospitals
